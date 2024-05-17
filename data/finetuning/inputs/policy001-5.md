@@ -1,0 +1,102 @@
+# ACORD CERTIFICATE OF LIABILITY INSURANCE
+
+DATE (MM/DD/YYYY): 12/14/09
+
+PRODUCER
+
+Sullivan Insurance Services, Inc.
+
+1425 E. Adams
+
+Springfield, IL 62703
+
+Ph:217-280-7500
+
+INSURED
+
+Cityscape Towers Condominium Association
+
+1224 W Monroe Street
+
+Springfield, IL 62704
+
+# INSURERS AFFORDING COVERAGE
+
+|INSURER A|Affiliated FM Insurance Company|
+|---|---|
+|INSURER B|Hartford Fire Insurance Company|
+|INSURER C|Federal Insurance Company|
+|INSURER D|Travelers Casualty & Surety Company of America|
+|INSURER E|Twin City Fire Insurance Company|
+
+# COVERAGES
+
+|INSR LTR|ADDITIONAL INSURED|TYPE OF INSURANCE|POLICY NUMBER|POLICY EFFECTIVE DATE (MM/DD/YY)|POLICY EXPIRATION DATE (MM/DD/YY)|LIMITS|
+|---|---|---|---|---|---|---|
+|B| |GENERAL LIABILITY|94VEFTP7690|05/01/2009|05/01/2010|EACH OCCURRENCE: $1,200,000|
+| |x COMMERCIAL GENERAL LIABILITY| | | | |FIRE DAMAGE (Any one fire): $350,000|
+| |CLAIMS MADE x OCCUR| | | | |MED EXP (Any one person): $15,000|
+| | | | | | |PERSONAL & ADV INJURY: $1,200,000|
+| | | | | | |GENERAL AGGREGATE: $2,500,000|
+| | | | | | |PRODUCTS - COMP/OP AGG: $2,500,000|
+|E| |AUTOMOBILE LIABILITY|94VEFTP2799|05/01/2009|05/01/2010|COMBINED SINGLE LIMIT (Ea accident): $1,200,000|
+| |ANY AUTO| | | | | |
+| |ALL OWNED AUTOS| | | | | |
+| |SCHEDULED AUTOS| | | | | |
+| |x HIRED AUTOS| | | | | |
+| |x NON-OWNED AUTOS| | | | | |
+|C| |EXCESS/UMBRELLA LIABILITY|94863887|05/01/2009|05/01/2010|EACH OCCURRENCE: $30,000,000|
+| |x OCCUR CLAIMS MADE| | | | |AGGREGATE: $30,000,000|
+| |DEDUCTIBLE| | | | | |
+| |x RETENTION $ 15,000| | | | | |
+|A| |Boiler & Machinery|EI890175|05/01/2009|05/01/2010|$145,137,931 / $6,000 Ded.|
+|D| |Crime|105605562|05/01/2009|05/01/2010|$1,200,000 / $15,000 Ded.|
+|F| |Dirs & Offcrs Liab|025863994|04/30/2009|04/30/2010|$2,500,000 / $6,000 Retention|
+|A| |Earthquake|EI890175|05/01/2009|05/01/2010|$160,000,000/$110,000 Deductible|
+|A| |Flood|EI890175|05/01/2009|05/01/2010|$110,000,000/$110,000 Deductible|
+
+DESCRIPTION OF OPERATIONS/LOCATIONS/VEHICLES/EXCLUSIONS ADDED BY ENDORSEMENT/SPECIAL PROVISIONS
+
+John Doe
+
+1224 W Monroe Street
+
+Springfield, IL 62704
+
+UNIT #: 7012
+
+CERTIFICATE HOLDER
+
+CANCELLATION
+
+CERT ID: 192019
+
+AUTHORIZED REPRESENTATIVE
+
+Loan #:
+
+ACORD 25-S (7/97)
+
+---
+
+DATE (MM/DD/YYYY)
+12/14/09
+
+|PRODUCER|INSURER|
+|---|---|
+|Sullivan Insurance Services, Inc.|Illinois National Insurance Company|
+|1425 E. Adams|F|
+|Springfield, IL 62703|G|
+|Ph:217-280-7500|INSURER|
+|INSURED|H|
+|Cityscape Towers Condominium Association|I|
+|1224 W Monroe Street|INSURER|
+|Springfield, IL 62704|J|
+
+|INSR|TYPE OF INSURANCE|POLICY NUMBER|POLICY EFFECTIVE DATE (MM/DD/YY)|POLICY EXPIRATION DATE (MM/DD/YY)|LIMITS|
+|---|---|---|---|---|---|
+|A|Property|EI890175|05/01/2009|05/01/2010|$145,139,931 / $15,000 Ded. / Replacement Cost / Agreed Amount|
+
+CERTIFICATE HOLDER: Cert ID: 192019
+
+ACORD 25-S (7/97)

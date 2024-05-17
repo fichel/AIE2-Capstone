@@ -1,0 +1,10 @@
+python-dotenv
+llama-parse
+openai
+llama-index
+langchain-core
+langchain-openai
+langchain-huggingface
+langchain-community
+streamlit
+streamlit-pdf-viewer

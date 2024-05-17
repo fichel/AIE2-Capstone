@@ -1,0 +1,108 @@
+# ACORD CERTIFICATE OF LIABILITY INSURANCE
+
+DATE (MM/DD/YYYY): 05/12/20
+
+PRODUCER
+
+Everett Insurance Services, Inc.
+
+9428 E. 52nd Street
+
+Indianapolis, IN 46235
+
+Ph:317-895-1200
+
+INSURED
+
+Lakeview Towers Condominium Association
+
+2750 N Lakeview Ave
+
+Chicago, IL 60614
+
+# INSURERS AFFORDING COVERAGE
+
+|INSURER A|Affiliated FM Insurance Company|
+|---|---|
+|INSURER B|Hartford Fire Insurance Company|
+|INSURER C|Federal Insurance Company|
+|INSURER D|Travelers Casualty & Surety Company of America|
+|INSURER E|Twin City Fire Insurance Company|
+
+# COVERAGES
+
+|INSR LTR|ADDITIONAL INSURED|TYPE OF INSURANCE|POLICY NUMBER|POLICY EFFECTIVE DATE (MM/DD/YY)|POLICY EXPIRATION DATE (MM/DD/YY)|LIMITS|
+|---|---|---|---|---|---|---|
+|B| |GENERAL LIABILITY|93UEHZR8590|05/12/2020|05/12/2021|EACH OCCURRENCE: $1,500,000|
+| |x COMMERCIAL GENERAL LIABILITY| | | | |FIRE DAMAGE (Any one fire): $400,000|
+| |CLAIMS MADE x OCCUR| | | | |MED EXP (Any one person): $15,000|
+| | | | | | |PERSONAL & ADV INJURY: $1,500,000|
+| | | | | | |GENERAL AGGREGATE: $3,000,000|
+| | | | | | |PRODUCTS - COMP/OP AGG: $3,000,000|
+|E| |AUTOMOBILE LIABILITY|93UEHZR3698|05/12/2020|05/12/2021|COMBINED SINGLE LIMIT (Ea accident): $1,500,000|
+| |ANY AUTO| | | | | |
+| |ALL OWNED AUTOS| | | | | |
+| |SCHEDULED AUTOS| | | | | |
+| |x HIRED AUTOS| | | | | |
+| |x NON-OWNED AUTOS| | | | | |
+|C| |EXCESS/UMBRELLA LIABILITY|93641888|05/12/2020|05/12/2021|EACH OCCURRENCE: $30,000,000|
+| |x OCCUR CLAIMS MADE| | | | |AGGREGATE: $30,000,000|
+| |DEDUCTIBLE| | | | | |
+| |x RETENTION $ 15,000| | | | | |
+|A| |Boiler & Machinery|EI868095|05/12/2020|05/12/2021|$180,137,931 / $7,000 Ded.|
+|D| |Crime|104408562|05/12/2020|05/12/2021|$1,500,000 / $15,000 Ded.|
+|F| |Dirs & Offcrs Liab|024763995|05/11/2020|05/11/2021|$3,000,000 / $7,000 Retention|
+|A| |Earthquake|EI868095|05/12/2020|05/12/2021|$200,000,000/$120,000 Deductible|
+|A| |Flood|EI868095|05/12/2020|05/12/2021|$150,000,000/$120,000 Deductible|
+
+DESCRIPTION OF OPERATIONS/LOCATIONS/VEHICLES/EXCLUSIONS ADDED BY ENDORSEMENT/SPECIAL PROVISIONS
+
+Mike Johnson
+
+2750 N Lakeview Ave
+
+Chicago, IL 60614
+
+UNIT #: 7020
+
+CERTIFICATE HOLDER
+
+CANCELLATION
+
+CERT ID: 186920
+
+AUTHORIZED REPRESENTATIVE
+
+Loan #:
+
+ACORD 25-S (7/97)
+---
+# IMPORTANT
+
+# DISCLAIMER
+
+ACORD 25-S (7/97)
+---
+# ADDITIONAL INFORMATION
+
+DATE (MM/DD/YYYY)
+05/12/20
+
+|PRODUCER|INSURER|
+|---|---|
+|Everett Insurance Services, Inc.|Illinois National Insurance Company|
+|9428 E. 52nd Street|F|
+|Indianapolis, IN 46235|G|
+|Ph:317-895-1200|INSURER|
+|INSURED|H|
+|Lakeview Towers Condominium Association|I|
+|2750 N Lakeview Ave|INSURER|
+|Chicago, IL 60614|J|
+
+|INSR|TYPE OF INSURANCE|POLICY NUMBER|POLICY EFFECTIVE DATE (MM/DD/YY)|POLICY EXPIRATION DATE (MM/DD/YY)|LIMITS|
+|---|---|---|---|---|---|
+|A|Property|EI868095|05/12/2020|05/12/2021|$180,139,931 / $15,000 Ded. / Replacement Cost / Agreed Amount|
+
+CERTIFICATE HOLDER: Cert ID: 186920
+
+ACORD 25-S (7/97)

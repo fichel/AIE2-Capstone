@@ -1,3 +1,7 @@
+# project specific
+/data/glossary/
+/data/guides/
+
 # Mac DS_Store
 .DS_Store
 
